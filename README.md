@@ -3,6 +3,14 @@ Developed Shared Transport Booking System in C#, applying OOP principles, iterat
 
 # Shared Transport Booking System - C# Part
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [How to use](#howtouse)
+- [Code Structure](#codestructure)
+- [Execution](#execution)
+
 ## Overview
 
 This C# part of the Shared Transport Booking System is a comprehensive solution for managing bookings of electric transport items. The system utilizes object-oriented principles, emphasizing readability, maintainability, and adherence to coding standards.
